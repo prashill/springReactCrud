@@ -1,0 +1,29 @@
+.box{
+    width: 30vw;
+    height: 70vh;
+    border-radius: 0.5rem;
+    background-color:#e4e4e4;
+  
+    position: relative;
+    overflow: hidden;
+    transform: translate3d(0,0,0);
+    margin: auto;
+    margin-left: 100px;
+    text-align: center;
+        
+  
+}
+
+.inputField{
+    border-radius:20px ;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    box-shadow: 0 0.2rem 3rem rgba(0,0,0,0.2);
+}
+
+  
+ .info{
+     margin-top: 100px;
+ }
